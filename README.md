@@ -4,7 +4,7 @@
 
 Submitted by: **Janice Kim**
 
-Time spent: **1.5** hours spent in total
+Time spent: **2** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/zircon-pale-peanut
 
@@ -56,7 +56,7 @@ If I had more time to work on this project, I would style the elements to reflec
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://upenn.zoom.us/rec/share/SrxqWfVHcSJVvJ9c3g-oW7HLN4dmLI_Pq7sb5yr30fRkrmb9e91o2gPI23YY-mGw.kqibUvp6Yu3-vYKZ)
 
 
 ## License
